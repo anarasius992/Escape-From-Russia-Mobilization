@@ -193,4 +193,4 @@ This repository serves as the official landing page for Escape From Russia: Mobi
 **Get the most recent version of Escape From Russia: Mobilization today!**
 
 ---
-**Last updated:** 2026-11-10 22:58:55 UTC
+**Last updated:** 2026-11-11 02:42:29 UTC
